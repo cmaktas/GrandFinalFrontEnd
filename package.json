@@ -1,5 +1,5 @@
 {
-  "name": "fox",
+  "name": "ipam",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,8 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.21.2",
+    "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
+    "node-modules": "^1.0.1",
     "vue": "^2.6.11",
+    "vue-jwt-decode": "^0.1.0",
+    "vue-material-design-icons": "^4.12.1",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {
